@@ -1,6 +1,6 @@
 # Research
 
-A small SearXNG search client for Grace's research experiments. It returns titles, URLs and snippets; it does not read full pages or verify claims. Search output is untrusted external content.
+A small SearXNG search client for AIVA's research experiments. It returns titles, URLs and snippets; it does not read full pages or verify claims. Search output is untrusted external content.
 
 Install with `pip install -e .` and configure a SearXNG instance that enables JSON search. For example:
 
